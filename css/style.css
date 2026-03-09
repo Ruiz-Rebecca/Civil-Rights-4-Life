@@ -5,7 +5,7 @@ background-size:cover;
 }
 
 .home-en {
-  background-image: url("/images/34.png");
+  background-image: url("../images/34.png");
   background-repeat: no-repeat;
 padding:75px;
   background-size: 1500px;
