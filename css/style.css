@@ -12,7 +12,7 @@ padding:75px;
   background-position:  center;
 }
 .home-es {
-  background-image: url("/images/35.png");
+  background-image: url("../images/35.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -20,7 +20,7 @@ padding:75px;
   background-position:  center;
 }
 .home-fr {
-  background-image: url("/images/36.png");
+  background-image: url("../images/36.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -29,7 +29,7 @@ padding:75px;
 }
 
 .rights-en {
-  background-image: url("/images/37.png");
+  background-image: url("../images/37.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -37,7 +37,7 @@ padding:75px;
   background-position:  center;
 }
 .rights-es {
-  background-image: url("/images/38.png");
+  background-image: url("../images/38.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -45,7 +45,7 @@ padding:75px;
   background-position:  center;
 }
 .rights-fr {
-  background-image: url("/images/39.png");
+  background-image: url("../images/39.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -53,7 +53,7 @@ padding:75px;
   background-position:  center;
 }
 .useright-en {
-  background-image: url("/images/40.png");
+  background-image: url("../images/40.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -61,7 +61,7 @@ padding:75px;
   background-position:  center;
 }
 .useright-es{
-  background-image: url("/images/41.png");
+  background-image: url("../images/41.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -69,7 +69,7 @@ padding:75px;
   background-position:  center;
 }
 .useright-fr{
-  background-image: url("/images/42.png");
+  background-image: url("../images/42.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -77,7 +77,7 @@ padding:75px;
   background-position:  center;
 }
 .importantright-en{
-  background-image: url("/images/43.png");
+  background-image: url("../images/43.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -85,7 +85,7 @@ padding:75px;
   background-position:  center;
 }
 .importantrights-en{
-  background-image: url("/images/44.png");
+  background-image: url("../images/44.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -93,7 +93,7 @@ padding:75px;
   background-position:  center;
 }
 .importantright-fr{
-  background-image: url("/images/45.png");
+  background-image: url("../images/45.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -101,7 +101,7 @@ padding:75px;
   background-position:  center;
 }
 .sac-en{
-  background-image: url("/images/46.png");
+  background-image: url("../images/46.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -109,7 +109,7 @@ padding:75px;
   background-position:  center;
 }
 .sac-es{
-  background-image: url("/images/47.png");
+  background-image: url("../images/47.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -117,7 +117,7 @@ padding:75px;
   background-position:  center;
 }
 .sac-fr{
-  background-image: url("/images/48.png");
+  background-image: url("../images/48.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -125,7 +125,7 @@ padding:75px;
   background-position:  center;
 }
 .citations-en{
-  background-image: url("/images/49.png");
+  background-image: url("../images/49.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -133,7 +133,7 @@ padding:75px;
   background-position:  center;
 }
 .citations-es{
-  background-image: url("/images/50.png");
+  background-image: url("../images/50.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -141,7 +141,7 @@ padding:75px;
   background-position:  center;
 }
 .citations-fr{
-  background-image: url("/images/51.png");
+  background-image: url("../images/51.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -149,7 +149,7 @@ padding:75px;
   background-position:  center;
 }
 .amend1-en{
-  background-image: url("/images/1.png");
+  background-image: url("../images/1.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -157,7 +157,7 @@ padding:75px;
   background-position:  center;
 }
 .amend1-es{
-  background-image: url("/images/2.png");
+  background-image: url("../images/2.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -165,7 +165,7 @@ padding:75px;
   background-position:  center;
 }
 .amend1-fr{
-  background-image: url("/images/3.png");
+  background-image: url("../images/3.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -173,7 +173,7 @@ padding:75px;
   background-position:  center;
 }
 .amend2-en{
-  background-image: url("/images/4.png");
+  background-image: url("../images/4.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -181,7 +181,7 @@ padding:75px;
   background-position:  center;
 }
 .amend2-es{
-  background-image: url("/images/5.png");
+  background-image: url("../images/5.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -189,7 +189,7 @@ padding:75px;
   background-position:  center;
 }
 .amend2-fr{
-  background-image: url("/images/6.png");
+  background-image: url("../images/6.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -197,7 +197,7 @@ padding:75px;
   background-position:  center;
 }
 .amend3-en{
-  background-image: url("/images/7.png");
+  background-image: url("../images/7.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -205,7 +205,7 @@ padding:75px;
   background-position:  center;
 }
 .amend3-es{
-  background-image: url("/images/9.png");
+  background-image: url("../images/9.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -213,7 +213,7 @@ padding:75px;
   background-position:  center;
 }
 .amend3-fr{
-  background-image: url("/images/9.png");
+  background-image: url("../images/9.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -221,7 +221,7 @@ padding:75px;
   background-position:  center;
 }
 .amend4-en{
-  background-image: url("/images/10.png");
+  background-image: url("../images/10.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -229,7 +229,7 @@ padding:75px;
   background-position:  center;
 }
 .amend4-es{
-  background-image: url("/images/11.png");
+  background-image: url("../images/11.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -237,7 +237,7 @@ padding:75px;
   background-position:  center;
 }
 .amend4-fr{
-  background-image: url("/images/12.png");
+  background-image: url("../images/12.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -245,7 +245,7 @@ padding:75px;
   background-position:  center;
 }
 .amend5-en{
-  background-image: url("/images/13.png");
+  background-image: url("../images/13.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -253,7 +253,7 @@ padding:75px;
   background-position:  center;
 }
 .amend5-es{
-  background-image: url("/images/14.png");
+  background-image: url("../images/14.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -261,7 +261,7 @@ padding:75px;
   background-position:  center;
 }
 .amend5-fr{
-  background-image: url("/images/15.png");
+  background-image: url("../images/15.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -269,7 +269,7 @@ padding:75px;
   background-position:  center;
 }
 .amend6-en{
-  background-image: url("/images/16.png");
+  background-image: url("../images/16.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -277,7 +277,7 @@ padding:75px;
   background-position:  center;
 }
 .amend6-es{
-  background-image: url("/images/17.png");
+  background-image: url("../images/17.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -285,7 +285,7 @@ padding:75px;
   background-position:  center;
 }
 .amend6-fr{
-  background-image: url("/images/18.png");
+  background-image: url("../images/18.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -293,7 +293,7 @@ padding:75px;
   background-position:  center;
 }
 .amend7-en{
-  background-image: url("/images/19.png");
+  background-image: url("../images/19.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -301,7 +301,7 @@ padding:75px;
   background-position:  center;
 }
 .amend7-es{
-  background-image: url("/images/20.png");
+  background-image: url("../images/20.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -309,7 +309,7 @@ padding:75px;
   background-position:  center;
 }
 .amend7-fr{
-  background-image: url("/images/21.png");
+  background-image: url("../images/21.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -317,7 +317,7 @@ padding:75px;
   background-position:  center;
 }
 .amend8-en{
-  background-image: url("/images/22.png");
+  background-image: url("../images/22.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -325,7 +325,7 @@ padding:75px;
   background-position:  center;
 }
 .amend8-es{
-  background-image: url("/images/23.png");
+  background-image: url("../images/23.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -333,7 +333,7 @@ padding:75px;
   background-position:  center;
 }
 .amend8-fr{
-  background-image: url("/images/24.png");
+  background-image: url("../images/24.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -341,7 +341,7 @@ padding:75px;
   background-position:  center;
 }
 .amend9-en{
-  background-image: url("/images/25.png");
+  background-image: url("../images/25.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -349,7 +349,7 @@ padding:75px;
   background-position:  center;
 }
 .amend9-es{
-  background-image: url("/images/26.png");
+  background-image: url("../images/26.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -357,7 +357,7 @@ padding:75px;
   background-position:  center;
 }
 .amend9-fr{
-  background-image: url("/images/27.png");
+  background-image: url("../images/27.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -365,7 +365,7 @@ padding:75px;
   background-position:  center;
 }
 .amend10-en{
-  background-image: url("/images/28.png");
+  background-image: url("../images/28.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -373,7 +373,7 @@ padding:75px;
   background-position:  center;
 }
 .amend10-es{
-  background-image: url("/images/29.png");
+  background-image: url("../images/29.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -381,7 +381,7 @@ padding:75px;
   background-position:  center;
 }
 .amend10-fr{
-  background-image: url("/images/30.png");
+  background-image: url("../images/30.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -389,7 +389,7 @@ padding:75px;
   background-position:  center;
 }
 .amend14-en{
-  background-image: url("/images/31.png");
+  background-image: url("../images/31.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -397,7 +397,7 @@ padding:75px;
   background-position:  center;
 }
 .amend14-es{
-  background-image: url("/images/32.png");
+  background-image: url("../images/32.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
@@ -405,7 +405,7 @@ padding:75px;
   background-position:  center;
 }
 .amend14-fr{
-  background-image: url("/images/33.png");
+  background-image: url("../images/33.png");
   background-repeat: no-repeat;
   padding: 85px;
   height: auto;
